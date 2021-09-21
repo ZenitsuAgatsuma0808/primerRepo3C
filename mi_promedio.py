@@ -28,4 +28,6 @@ print ("Ingresa la calificación 5")
 cali5 = float (input())
 # 14. hacer promedio = (cali1 + cali2 + cali3 + cali4 + cali5) / n
 promedio = (cali1 + cali2 + cali3 + cali4 + cali5) / n
-# 15. fin 
+# 15. Imprimir "Dadas tus calificaciones, tu promedio seria de ", promedio 
+print("Dadas tus calificaciones, tu promedio seria de ", promedio)
+# 16. fin
